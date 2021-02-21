@@ -1,0 +1,85 @@
+{
+"products":
+[
+{
+  "id": 1,
+  "name": "Ground legaan",
+  "category": "Green"
+}, {
+  "id": 2,
+  "name": "Hoary marmot",
+  "category": "Mauv"
+}, {
+  "id": 3,
+  "name": "Hawk, galapagos",
+  "category": "Puce"
+}, {
+  "id": 4,
+  "name": "South African hedgehog",
+  "category": "Khaki"
+}, {
+  "id": 5,
+  "name": "Sociable weaver",
+  "category": "Khaki"
+}, {
+  "id": 6,
+  "name": "Possum, western pygmy",
+  "category": "Indigo"
+}, {
+  "id": 7,
+  "name": "White-faced whistling duck",
+  "category": "Violet"
+}, {
+  "id": 8,
+  "name": "Four-horned antelope",
+  "category": "Violet"
+}, {
+  "id": 9,
+  "name": "Radiated tortoise",
+  "category": "Indigo"
+}, {
+  "id": 10,
+  "name": "Gull, dusky",
+  "category": "Yellow"
+}, {
+  "id": 11,
+  "name": "Tern, white-winged",
+  "category": "Fuscia"
+}, {
+  "id": 12,
+  "name": "Civet (unidentified)",
+  "category": "Red"
+}, {
+  "id": 13,
+  "name": "Galapagos tortoise",
+  "category": "Maroon"
+}, {
+  "id": 14,
+  "name": "Crab-eating raccoon",
+  "category": "Goldenrod"
+}, {
+  "id": 15,
+  "name": "Monkey, vervet",
+  "category": "Goldenrod"
+}, {
+  "id": 16,
+  "name": "Glider, sugar",
+  "category": "Blue"
+}, {
+  "id": 17,
+  "name": "Lynx, african",
+  "category": "Maroon"
+}, {
+  "id": 18,
+  "name": "Canada goose",
+  "category": "Goldenrod"
+}, {
+  "id": 19,
+  "name": "Fox, asian red",
+  "category": "Mauv"
+}, {
+  "id": 20,
+  "name": "Weaver, white-browed sparrow",
+  "category": "Teal"
+}]
+}
